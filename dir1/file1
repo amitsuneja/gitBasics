@@ -1,5 +1,11 @@
 [root@ip-172-31-0-177 ~]# git config --global user.email amitsuneja.devops@gmail.com
 [root@ip-172-31-0-177 ~]# git config --global user.name amitsuneja
+[root@ip-172-31-0-177 ~]# cat .gitconfig
+[user]
+        email = amitsuneja.devops@gmail.com
+        name = amitsuneja
+[root@ip-172-31-0-177 ~]#
+
 [root@ip-172-31-0-177 ~]# git clone https://github.com/amitsuneja/learninggit
 
 
@@ -24,3 +30,8 @@ add ur public key to your git account and change ur url
 
 [root@ip-172-31-0-177 learninggit]# git remote show origin
 
+
+
+
+git log --stat -M
+git log
