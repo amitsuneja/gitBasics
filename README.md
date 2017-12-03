@@ -36,3 +36,20 @@ To https://github.com/amitsuneja/learninggit.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
 sun01$
+
+
+
+
+
+
+sun01$ git clone https://github.com/amitsuneja/learninggit.git
+learninggit  terraform-basics
+
+
+sun01$ cd learninggit
+
+
+
+sun01$ mkdir dir1
+sun01$ touch dir1/file1
+
