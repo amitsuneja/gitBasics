@@ -11,5 +11,10 @@
     master pushes to master (up to date)
 [root@ip-172-31-0-177 dir1]#
 
+add ur public key to your git account
 
+
+[root@ip-172-31-0-177 learninggit]# git remote set-url origin git+ssh://git@github.com/amitsuneja/learninggit
+
+[root@ip-172-31-0-177 learninggit]# git remote show origin
 
