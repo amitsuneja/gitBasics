@@ -1,3 +1,10 @@
+[root@ip-172-31-0-177 ~]# git config --global user.email amitsuneja.devops@gmail.com
+[root@ip-172-31-0-177 ~]# git config --global user.name amitsuneja
+[root@ip-172-31-0-177 ~]# git clone https://github.com/amitsuneja/learninggit
+
+
+
+
 [root@ip-172-31-0-177 dir1]# git remote show origin
 * remote origin
   Fetch URL: https://github.com/amitsuneja/learninggit
@@ -11,8 +18,7 @@
     master pushes to master (up to date)
 [root@ip-172-31-0-177 dir1]#
 
-add ur public key to your git account
-
+add ur public key to your git account and change ur url
 
 [root@ip-172-31-0-177 learninggit]# git remote set-url origin git+ssh://git@github.com/amitsuneja/learninggit
 
