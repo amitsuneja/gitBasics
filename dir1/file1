@@ -35,3 +35,13 @@ add ur public key to your git account and change ur url
 
 git log --stat -M
 git log
+
+
+
+
+
+
+
+git rm progit-en.1084.pdf
+git commit -am "gg"
+git push
