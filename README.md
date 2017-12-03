@@ -52,4 +52,6 @@ sun01$ cd learninggit
 
 sun01$ mkdir dir1
 sun01$ touch dir1/file1
+sun01$git add dir1
+sun01$git add dir1/file1
 
