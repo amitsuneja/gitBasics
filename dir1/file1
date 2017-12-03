@@ -1,1 +1,15 @@
-1st entry
+[root@ip-172-31-0-177 dir1]# git remote show origin
+* remote origin
+  Fetch URL: https://github.com/amitsuneja/learninggit
+  Push  URL: https://github.com/amitsuneja/learninggit
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+[root@ip-172-31-0-177 dir1]#
+
+
+
