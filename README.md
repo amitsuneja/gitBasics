@@ -153,3 +153,48 @@ sun01$ git add .
 
 sun01$ git diff
 
+
+
+
+
+
+
+
+
+
+
+# git checkout
+use git log then below commands
+
+[linux01]# git checkout 9ec1078b068a1e746ab537ec2e54acfaae7275dd
+
+
+HEAD is now at 9ec1078... second
+
+
+
+[linux01]# cat Readme.md
+
+Test
+
+hello how are you
+
+
+
+
+[linux01]# git checkout 53310769efaf341734c4b609bdf29d9449736271
+
+Previous HEAD position was 9ec1078... second
+
+HEAD is now at 5331076... first
+
+
+
+[linux01]# cat Readme.md
+
+
+Test
+
+
+[linux01]#
+
