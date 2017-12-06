@@ -1,4 +1,4 @@
-# Learning Git
+# Learning Git (Distributed Version Control)
 sun01$ echo "# learninggit" >> README.md
 
 
