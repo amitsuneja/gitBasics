@@ -111,5 +111,6 @@ sun01$ git remote show origin
 
 # Adding .gitignore file in  project directory
 sun01$ cat .gitignore
+
 *.swp
 
