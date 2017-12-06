@@ -121,7 +121,14 @@ sun01$ cat .gitignore
 
 
 WorkingDirectory -------git add--------------> StagingArea -------git commit------------->Respository(CommitedFiles)
+#
+
+
+
+
 sun01$ git diff
+
+
 diff --git a/README.md b/README.md
 index 316b8b7..a11ea64 100644
 --- a/README.md
@@ -137,6 +144,10 @@ index 316b8b7..a11ea64 100644
 +
 +
 +WorkingDirectory -------git add--------------> StagingArea -------git commit------------->Respository(CommitedFiles)
+
+
+
+
 sun01$ git add .
 sun01$ git diff
 
