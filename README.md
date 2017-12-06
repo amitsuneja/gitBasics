@@ -118,7 +118,7 @@ sun01$ cat .gitignore
 
 
 # Git Fundamentals
-
+# git diff - compare working directory with staging area
 
 WorkingDirectory -------git add--------------> StagingArea -------git commit------------->Respository(CommitedFiles)
 #
