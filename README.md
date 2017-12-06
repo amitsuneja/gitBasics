@@ -79,7 +79,7 @@ Password for 'https://amitsuneja@github.com':
 
 
 
-#Making Git Passwordless
+# Making Git Passwordless
 
 Login to EC2
 use ssh-keygen
