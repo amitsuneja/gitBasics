@@ -1,2 +1,0 @@
-1. file created not added to git
-is not reporting anything in gid diff command
