@@ -105,3 +105,11 @@ sun01$ git remote show origin
 
 
   Push  URL: git+ssh://git@github.com/amitsuneja/learninggit
+
+
+
+
+# Adding .gitignore file in  project directory
+sun01$ cat .gitignore
+*.swp
+
