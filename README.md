@@ -1,4 +1,10 @@
 # Learning Git (Distributed Version Control)
+# Keeping History of working versions of project
+# Know who make changes and why and when 
+# Merge conflicting changes
+
+
+
 sun01$ echo "# learninggit" >> README.md
 
 
