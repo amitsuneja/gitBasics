@@ -58,6 +58,7 @@ Password for 'https://amitsuneja@github.com':
 
 
 #Making Git Passwordless
+
 Login to EC2
 use ssh-keygen
 cat ~/.ssh/id_rsa.pub
@@ -67,7 +68,10 @@ login to GitHub > Profile > SSH and GPG Keys > New ssh Key > GiveTitel and SaveK
 sun01$ git remote show origin
 * remote origin
   Fetch URL: https://github.com/amitsuneja/learninggit
+
   Push  URL: https://github.com/amitsuneja/learninggit
+
+
 
 sun01$ git remote set-url origin git+ssh://git@github.com/amitsuneja/learninggit
 
@@ -75,4 +79,6 @@ sun01$ git remote set-url origin git+ssh://git@github.com/amitsuneja/learninggit
 sun01$ git remote show origin
 * remote origin
   Fetch URL: git+ssh://git@github.com/amitsuneja/learninggit
+
+
   Push  URL: git+ssh://git@github.com/amitsuneja/learninggit
