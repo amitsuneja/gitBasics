@@ -217,6 +217,4 @@ To git+ssh://github.com/amitsuneja/troposphere
 [linux01]#
 
 Now on git hub do below
-settings of your Project > collaborators > search name example sarastanway@gmail.com or type sara and Add > it will be 
-
-awating for sara response.
+settings of your Project > collaborators > search name example sarastanway@gmail.com or type sara and Add > it will be awating for sara response.
