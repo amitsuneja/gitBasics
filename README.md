@@ -114,3 +114,10 @@ sun01$ cat .gitignore
 
 *.swp
 
+
+
+
+# Git Fundamentals
+
+
+WorkingDirectory -------git add--------------> StagingArea -------git commit------------->Respository(CommitedFiles)
