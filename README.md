@@ -198,3 +198,25 @@ Test
 
 [linux01]#
 
+
+
+
+# Branches
+
+[linux01]# git branch BranchForDeveloper2
+
+[linux01]# git push origin BranchForDeveloper2
+
+Total 0 (delta 0), reused 0 (delta 0)
+
+To git+ssh://github.com/amitsuneja/troposphere
+
+ * [new branch]      BranchForDeveloper2 -> BranchForDeveloper2
+
+
+[linux01]#
+
+Now on git hub do below
+settings of your Project > collaborators > search name example sarastanway@gmail.com or type sara and Add > it will be 
+
+awating for sara response.
