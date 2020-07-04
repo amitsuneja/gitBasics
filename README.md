@@ -1,10 +1,17 @@
-# git
+GIT
+----
 root@raspberrypi:~/# git clone  https://github.com/amitsuneja/robotic_car.git
+
 root@raspberrypi:~/# ssh-keygen and copy key to GIT
+
 root@raspberrypi:~/# cd robotic_car
+
 root@raspberrypi:~/robotic_car# git remote set-url origin ssh://git@github.com/amitsuneja/robotic_car.git
+
 root@raspberrypi:~/robotic_car# git push
+
 Everything up-to-date
+
 root@raspberrypi:~/robotic_car#
 
 
