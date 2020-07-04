@@ -1,3 +1,14 @@
+# git
+root@raspberrypi:~/# git clone  https://github.com/amitsuneja/robotic_car.git
+root@raspberrypi:~/# ssh-keygen and copy key to GIT
+root@raspberrypi:~/# cd robotic_car
+root@raspberrypi:~/robotic_car# git remote set-url origin ssh://git@github.com/amitsuneja/robotic_car.git
+root@raspberrypi:~/robotic_car# git push
+Everything up-to-date
+root@raspberrypi:~/robotic_car#
+
+
+
 # Learning Git (Distributed Version Control)
 # Keeping History of working versions of project
 # Know who make changes and why and when 
@@ -218,3 +229,9 @@ To git+ssh://github.com/amitsuneja/troposphere
 
 Now on git hub do below
 settings of your Project > collaborators > search name example sarastanway@gmail.com or type sara and Add > it will be awating for sara response.
+
+
+
+
+
+
