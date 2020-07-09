@@ -1,8 +1,12 @@
 GIT EDITOR to VI
 ----------------
+
 git config -l
+
 git config --global core.editor "vi"
+
 GIT_EDITOR=vi
+
 export GIT_EDITOR
 
 
