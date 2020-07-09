@@ -1,3 +1,12 @@
+GIT EDITOR to VI
+----------------
+git config -l
+git config --global core.editor "vi"
+GIT_EDITOR=vi
+export GIT_EDITOR
+
+
+
 GIT
 ----
 root@raspberrypi:~/# git clone  https://github.com/amitsuneja/robotic_car.git
