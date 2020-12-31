@@ -1,5 +1,11 @@
 https://www.bogotobogo.com/cplusplus/Git/Git_GitHub_Source_Tree_3_Git_WorkFlow.php
 
+If you want to list all the files currently being tracked under the branch master, you could use this command:
+git ls-tree -r master --name-only
+
+If you want a list of files that ever existed (i.e. including deleted files):
+git log --pretty=format: --name-only --diff-filter=A | sort - | sed '/^$/d'
+
 
 
 
